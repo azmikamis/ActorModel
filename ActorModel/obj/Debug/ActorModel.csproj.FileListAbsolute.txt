@@ -1,0 +1,8 @@
+D:\csharp-workspace\ActorModel\ActorModel\bin\Debug\ActorModel.exe
+D:\csharp-workspace\ActorModel\ActorModel\bin\Debug\ActorModel.pdb
+D:\csharp-workspace\ActorModel\ActorModel\obj\Debug\ActorModel.exe
+D:\csharp-workspace\ActorModel\ActorModel\obj\Debug\ActorModel.pdb
+D:\csharp-workspace\ActorModel\ActorModel\obj\Debug\ActorModel.csprojResolveAssemblyReference.cache
+D:\csharp-workspace\ActorModel\ActorModel\bin\Debug\ActorModel.exe.config
+D:\csharp-workspace\ActorModel\ActorModel\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\csharp-workspace\ActorModel\ActorModel\bin\Debug\System.Threading.Tasks.Dataflow.xml
